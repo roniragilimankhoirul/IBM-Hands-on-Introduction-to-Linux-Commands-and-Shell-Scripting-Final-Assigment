@@ -24,5 +24,3 @@ Anda dapat melihat tangkapan layar dari skrip dalam aksi di folder `Screenshots/
 ---
 
 Harap diperhatikan bahwa repositori ini dibuat untuk tujuan pendidikan dan demonstrasi. Silakan modifikasi isi dan instruksi sesuai dengan kebutuhan Anda.
-
-Dibuat dengan :heart: oleh Roni Ragil Iman Khoirul
